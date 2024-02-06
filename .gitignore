@@ -1,4 +1,4 @@
 /video/
-/clip/
 .idea/
-from_vid_to_aud.ipynb
+*.ipynb
+/audio/
