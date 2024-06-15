@@ -1,3 +1,5 @@
 /video/
+/text
+/audio
 .idea/
 *.ipynb
