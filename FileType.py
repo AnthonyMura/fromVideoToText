@@ -1,5 +1,5 @@
 class FileType:
-    types = ['video', 'audio']
+    types = ['video', 'audio', 'text']
 
     def __init__(self, file_type: str) -> None:
         self.validate_type(f_type=file_type)
